@@ -1,0 +1,35 @@
+#header {
+   color: brown;
+   background-color: lightblue;
+   text-align: center;
+   padding: 10px;
+}
+
+#phone-section {
+    color: darkred;
+    background-color: rgb(188, 226, 196);
+    padding: 10px;
+    cursor: -moz-zoom-in;
+}
+
+.imgContainer {
+    color: goldenrod;
+    display: grid;
+}
+
+.figcaption {
+    font-size: 22px;
+    text-align: center;
+    color: darkred;
+}
+
+.phone-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+}
+
+.footer {
+    background-color:wheat;
+}
